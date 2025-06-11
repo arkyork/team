@@ -20,6 +20,11 @@
    git checkout main      # 必ず main に戻る
    git pull               # リモートの最新を取得
    ```
+1. **ブランチを作る**
+   ```bash
+    git checkout -b feature/ログインフォーム
+   ```
+
 2. **機能ブランチを切る**
 
    ```bash
